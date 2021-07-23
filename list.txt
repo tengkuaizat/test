@@ -29,31 +29,31 @@ https://iptv.kampung.xyz/panda/live/tv3_1.mpd
 #EXTINF:-1 tvg-id="1103" tvg-logo="https://i.kampung.xyz/c/271efeca858aeb4e.png" group-title="MALAY",TV3 ᴴᴰ ⁻ ᴮᴷ¹
 https://iptv.kampung.xyz/panda/live/tv3_2.m3u8
 #EXTINF:-1 tvg-id="1103" tvg-logo="https://i.kampung.xyz/c/271efeca858aeb4e.png" group-title="MALAY",TV3 ᴴᴰ ⁻ ᴮᴷ²
-https://iptv.kampung.xyz/panda/live/tv3_3.m3u8
+https://iptv.kampung.xyz/panda/live/tv3_3.m3u8|User-Agent=rF5pRW6=/yU!^HMz}E
 #EXTINF:-1 tvg-id="1104" tvg-logo="https://i.kampung.xyz/c/fd916e8ddcf803f0.png" group-title="MALAY",Astro Ria ᴴᴰ
-https://iptv.kampung.xyz/panda/live/ria_1.m3u8
+https://iptv.kampung.xyz/panda/live/ria_1.m3u8|User-Agent=rF5pRW6=/yU!^HMz}E
 #EXTINF:-1 tvg-id="1104" tvg-logo="https://i.kampung.xyz/c/fd916e8ddcf803f0.png" group-title="MALAY",Astro Ria ᴴᴰ ⁻ ᴮᴷ¹
-https://iptv.kampung.xyz/panda/live/ria_2.m3u8
+https://iptv.kampung.xyz/panda/live/ria_2.m3u8|User-Agent=rF5pRW6=/yU!^HMz}E
 #EXTINF:-1 tvg-id="1105" tvg-logo="https://i.kampung.xyz/c/143e69f6c4c0f184.png" group-title="MALAY",Astro Prima ᴴᴰ
-https://iptv.kampung.xyz/panda/live/prima_1.m3u8
+https://iptv.kampung.xyz/panda/live/prima_1.m3u8|User-Agent=rF5pRW6=/yU!^HMz}E
 #EXTINF:-1 tvg-id="1105" tvg-logo="https://i.kampung.xyz/c/143e69f6c4c0f184.png" group-title="MALAY",Astro Prima ᴴᴰ ⁻ ᴮᴷ¹
-https://iptv.kampung.xyz/panda/live/prima_2.m3u8
+https://iptv.kampung.xyz/panda/live/prima_2.m3u8|User-Agent=rF5pRW6=/yU!^HMz}E
 #EXTINF:-1 tvg-id="1105" tvg-logo="https://i.kampung.xyz/c/143e69f6c4c0f184.png" group-title="MALAY",Astro Prima ᴴᴰ ⁻ ᴮᴷ²
-https://iptv.kampung.xyz/panda/live/prima_3.m3u8
+https://iptv.kampung.xyz/panda/live/prima_3.m3u8|User-Agent=rF5pRW6=/yU!^HMz}E
 #EXTINF:-1 tvg-id="1106" tvg-logo="https://i.kampung.xyz/c/49d50aef8ab0b5c2.png" group-title="MALAY",Astro Oasis ᴴᴰ
-https://iptv.kampung.xyz/panda/live/oasis_1.m3u8
+https://iptv.kampung.xyz/panda/live/oasis_1.m3u8|User-Agent=rF5pRW6=/yU!^HMz}E
 #EXTINF:-1 tvg-id="1106" tvg-logo="https://i.kampung.xyz/c/49d50aef8ab0b5c2.png" group-title="MALAY",Astro Oasis ᴴᴰ ⁻ ᴮᴷ¹
-https://iptv.kampung.xyz/panda/live/oasis_2.m3u8
+https://iptv.kampung.xyz/panda/live/oasis_2.m3u8|User-Agent=rF5pRW6=/yU!^HMz}E
 #EXTINF:-1 tvg-id="1107" tvg-logo="https://i.kampung.xyz/c/c3dc716208d6005b.png" group-title="MALAY",Astro Warna ᴴᴰ
-https://iptv.kampung.xyz/panda/live/warna_1.m3u8
+https://iptv.kampung.xyz/panda/live/warna_1.m3u8|User-Agent=rF5pRW6=/yU!^HMz}E
 #EXTINF:-1 tvg-id="1107" tvg-logo="https://i.kampung.xyz/c/c3dc716208d6005b.png" group-title="MALAY",Astro Warna ᴴᴰ ⁻ ᴮᴷ¹
-https://iptv.kampung.xyz/panda/live/warna_2.m3u8
+https://iptv.kampung.xyz/panda/live/warna_2.m3u8|User-Agent=rF5pRW6=/yU!^HMz}E
 #EXTINF:-1 tvg-id="1107" tvg-logo="https://i.kampung.xyz/c/c3dc716208d6005b.png" group-title="MALAY",Astro Warna ᴴᴰ ⁻ ᴮᴷ²
-https://iptv.kampung.xyz/panda/live/warna_3.m3u8
+https://iptv.kampung.xyz/panda/live/warna_3.m3u8|User-Agent=rF5pRW6=/yU!^HMz}E
 #EXTINF:-1 tvg-id="1108" tvg-logo="https://i.kampung.xyz/c/408100741b923e7e.png" group-title="MALAY",Astro Citra ᴴᴰ
-https://iptv.kampung.xyz/panda/live/citra_1.m3u8
+https://iptv.kampung.xyz/panda/live/citra_1.m3u8|User-Agent=rF5pRW6=/yU!^HMz}E
 #EXTINF:-1 tvg-id="1108" tvg-logo="https://i.kampung.xyz/c/408100741b923e7e.png" group-title="MALAY",Astro Citra ᴴᴰ ⁻ ᴮᴷ¹
-https://iptv.kampung.xyz/panda/live/citra_2.m3u8
+https://iptv.kampung.xyz/panda/live/citra_2.m3u8|User-Agent=rF5pRW6=/yU!^HMz}E
 #EXTINF:-1 tvg-id="1109" tvg-logo=" https://i.kampung.xyz/c/1b18d1d073a3e656.png" group-title="MALAY",Naura ᴴᴰ
 https://iptv.kampung.xyz/panda/live/naura_1.m3u8
 #EXTINF:-1 tvg-id="1109" tvg-logo=" https://i.kampung.xyz/c/1b18d1d073a3e656.png" group-title="MALAY",Naura ᴴᴰ ⁻ ᴮᴷ¹
